@@ -1,0 +1,6 @@
+C:\TFS\DB1TRAINEE\MinhaSolucao\ObjetosPOO\bin\Debug\ObjetosPOO.exe.config
+C:\TFS\DB1TRAINEE\MinhaSolucao\ObjetosPOO\bin\Debug\ObjetosPOO.exe
+C:\TFS\DB1TRAINEE\MinhaSolucao\ObjetosPOO\bin\Debug\ObjetosPOO.pdb
+C:\TFS\DB1TRAINEE\MinhaSolucao\ObjetosPOO\obj\Debug\ObjetosPOO.csprojResolveAssemblyReference.cache
+C:\TFS\DB1TRAINEE\MinhaSolucao\ObjetosPOO\obj\Debug\ObjetosPOO.exe
+C:\TFS\DB1TRAINEE\MinhaSolucao\ObjetosPOO\obj\Debug\ObjetosPOO.pdb
